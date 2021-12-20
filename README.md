@@ -14,5 +14,6 @@ The repository also contains a LabVIEW program to monitor the solar panel readin
 
 ## Author
 * Josep Rueda Collell: rueda_999@hotmail.com
+* Nèlia de Pallejà i Palomeras: u1915530@gmail.com
 
 
